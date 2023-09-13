@@ -1,2 +1,3 @@
-hello
-try
+First step: git add
+Second step: git commit
+Third step: git push
